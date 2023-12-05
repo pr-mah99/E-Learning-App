@@ -29,7 +29,7 @@ Create a quiz interface where users can answer multiple-choice questions related
 Implement functionality to calculate and display the user's quiz score.
 Allow users to view their ranking among others who took the same quiz.
 Show a leaderboard of the top quiz scores.
-### Requirements
+### Features
 Implement the project using the MVC architectural pattern for better code organization.
 Utilize the GetX package for state management.
 Ensure a clean and organized code structure with appropriate comments.
@@ -41,7 +41,7 @@ Demonstrate knowledge of Flutter best practices and widget composition.
 Getting Started
 This project serves as a starting point for Flutter application development.
 
-Developer's Details:
+### Developer's Details:
 - [play.google.com](play.google.com/store/apps/dev?id=8111981479252377711)
 - [apps.apple.com](apps.apple.com/us/developer/mahmoud-shamran/id1690166265)
 - [GitHub](github.com/pr-mah99)
