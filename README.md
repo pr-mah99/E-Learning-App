@@ -1,12 +1,12 @@
 # app_dev_task
 
-E-Learning Application Prototype Development Task
+### E-Learning Application Prototype Development Task
 Project Overview
 This project involves developing a preliminary model for an e-learning application using Flutter, following the MVC architectural pattern, and utilizing the GetX package for state management. The goal is to showcase your proficiency in Flutter, and the project should be completed within two days.
 
 Screenshots
 
-- [1.jpg](https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/1.jpg)
+ [1.jpg](https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/1.jpg)
 - [2.jpg](https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/2.jpg)
 - [3.jpg](https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/3.jpg)
 - [4.jpg](https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/4.jpg)
@@ -14,6 +14,10 @@ Screenshots
 - [6.jpg](https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/6.jpg)
 - [7.jpg](https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/7.jpg)
 
+<p align="center">
+  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/1.jpg" width="350" title="hover text">
+  <img src="https://github.com/pr-mah99/E-Learning-App/blob/main/ScreenShot/2.jpg" width="350" alt="accessibility text">
+</p>
 ### Task Summary
 ### Home Screen:
 Display a list of video lectures from a specific YouTube channel using the YouTube API.
